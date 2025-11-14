@@ -11,6 +11,7 @@ This repository includes screenshots of the store design, product pages, analyti
 Platform: Shopify
 Business Model: Dropshipping
 My Role: Store Designer • Product Researcher • Marketing Specialist • Customer Support • Operations Manager
+website - https://novellacart.com/
 
 I was responsible for setting up the entire store, optimizing product listings, running paid ads, analyzing performance, and maintaining customer satisfaction through consistent communication and support.
 
