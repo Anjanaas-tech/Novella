@@ -127,7 +127,7 @@ Ensured smooth communication between suppliers and customers
 Managed delays, replacements, and after-sale issues
 
 SCREENSHOTS
-![Homepage](screenshot/Novella1.jpg) 
-![Homepage](screenshot/Novella2.jpg) 
-![Homepage](screenshot/Novella3.jpg) 
-![Homepage](screenshot/Novella4.jpg) 
+![Homepage](Screenshot/Novella1.jpg) 
+![Homepage](Screenshot/Novella2.jpg) 
+![Homepage](Screenshot/Novella3.jpg) 
+![Homepage](Screenshot/Novella4.jpg) 
